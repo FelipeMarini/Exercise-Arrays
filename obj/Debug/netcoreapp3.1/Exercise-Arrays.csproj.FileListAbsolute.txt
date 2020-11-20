@@ -1,0 +1,13 @@
+C:\Users\Felipe\Desktop\Exercise-Arrays\bin\Debug\netcoreapp3.1\Exercise-Arrays.exe
+C:\Users\Felipe\Desktop\Exercise-Arrays\bin\Debug\netcoreapp3.1\Exercise-Arrays.deps.json
+C:\Users\Felipe\Desktop\Exercise-Arrays\bin\Debug\netcoreapp3.1\Exercise-Arrays.runtimeconfig.json
+C:\Users\Felipe\Desktop\Exercise-Arrays\bin\Debug\netcoreapp3.1\Exercise-Arrays.runtimeconfig.dev.json
+C:\Users\Felipe\Desktop\Exercise-Arrays\bin\Debug\netcoreapp3.1\Exercise-Arrays.dll
+C:\Users\Felipe\Desktop\Exercise-Arrays\bin\Debug\netcoreapp3.1\Exercise-Arrays.pdb
+C:\Users\Felipe\Desktop\Exercise-Arrays\obj\Debug\netcoreapp3.1\Exercise-Arrays.csprojAssemblyReference.cache
+C:\Users\Felipe\Desktop\Exercise-Arrays\obj\Debug\netcoreapp3.1\Exercise-Arrays.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\Exercise-Arrays\obj\Debug\netcoreapp3.1\Exercise-Arrays.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\Exercise-Arrays\obj\Debug\netcoreapp3.1\Exercise-Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\Exercise-Arrays\obj\Debug\netcoreapp3.1\Exercise-Arrays.dll
+C:\Users\Felipe\Desktop\Exercise-Arrays\obj\Debug\netcoreapp3.1\Exercise-Arrays.pdb
+C:\Users\Felipe\Desktop\Exercise-Arrays\obj\Debug\netcoreapp3.1\Exercise-Arrays.genruntimeconfig.cache
